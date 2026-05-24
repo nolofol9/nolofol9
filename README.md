@@ -70,24 +70,6 @@ const myFuture = {
 };
 ```
 
----
-
-## 🖼 Как добавить своё фото
-
-1. Загрузи фото в репозиторий  
-   Например:
-
-```text
-assets/photo.jpg
-```
-
-2. Добавь этот код в README:
-
-```html
-<p align="center">
-  <img src="assets/photo.jpg" width="220" style="border-radius:20px;" />
-</p>
-```
 
 ---
 
